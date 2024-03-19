@@ -1,0 +1,595 @@
+{
+    "folder": "/home/fadi/Desktop/auphonic/ready",
+    "video": "Hierarchical_Models-Section_130_Part1-Coding_Model-2024-01-19-Unedited-v1.mp4",
+    "output_folder": "/home/fadi/Desktop/auphonic/ready/processed_black_bars",
+    "detection": [
+        {
+            "time": "00:05",
+            "side": "top"
+        },
+        {
+            "time": "00:05",
+            "side": "top"
+        },
+        {
+            "time": "00:05",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:06",
+            "side": "top"
+        },
+        {
+            "time": "00:35",
+            "side": "top"
+        },
+        {
+            "time": "00:35",
+            "side": "top"
+        },
+        {
+            "time": "00:35",
+            "side": "top"
+        },
+        {
+            "time": "00:35",
+            "side": "top"
+        },
+        {
+            "time": "00:35",
+            "side": "top"
+        },
+        {
+            "time": "00:35",
+            "side": "top"
+        },
+        {
+            "time": "00:35",
+            "side": "top"
+        },
+        {
+            "time": "00:35",
+            "side": "top"
+        },
+        {
+            "time": "00:35",
+            "side": "top"
+        },
+        {
+            "time": "00:35",
+            "side": "top"
+        },
+        {
+            "time": "00:35",
+            "side": "top"
+        },
+        {
+            "time": "00:35",
+            "side": "top"
+        },
+        {
+            "time": "00:35",
+            "side": "top"
+        },
+        {
+            "time": "00:35",
+            "side": "top"
+        },
+        {
+            "time": "00:36",
+            "side": "top"
+        },
+        {
+            "time": "01:57",
+            "side": "right"
+        },
+        {
+            "time": "01:57",
+            "side": "right"
+        },
+        {
+            "time": "01:57",
+            "side": "right"
+        },
+        {
+            "time": "01:58",
+            "side": "right"
+        },
+        {
+            "time": "01:58",
+            "side": "right"
+        },
+        {
+            "time": "01:58",
+            "side": "right"
+        },
+        {
+            "time": "01:58",
+            "side": "right"
+        },
+        {
+            "time": "01:58",
+            "side": "right"
+        },
+        {
+            "time": "02:15",
+            "side": "left"
+        },
+        {
+            "time": "02:15",
+            "side": "left"
+        },
+        {
+            "time": "02:22",
+            "side": "right"
+        },
+        {
+            "time": "02:22",
+            "side": "right"
+        },
+        {
+            "time": "02:22",
+            "side": "right"
+        },
+        {
+            "time": "02:22",
+            "side": "right"
+        },
+        {
+            "time": "02:22",
+            "side": "right"
+        },
+        {
+            "time": "02:22",
+            "side": "right"
+        },
+        {
+            "time": "02:22",
+            "side": "right"
+        },
+        {
+            "time": "02:34",
+            "side": "left"
+        },
+        {
+            "time": "02:34",
+            "side": "left"
+        },
+        {
+            "time": "02:34",
+            "side": "left"
+        },
+        {
+            "time": "02:34",
+            "side": "left"
+        },
+        {
+            "time": "02:37",
+            "side": "right"
+        },
+        {
+            "time": "02:37",
+            "side": "right"
+        },
+        {
+            "time": "02:37",
+            "side": "right"
+        },
+        {
+            "time": "02:37",
+            "side": "right"
+        },
+        {
+            "time": "02:37",
+            "side": "right"
+        },
+        {
+            "time": "02:38",
+            "side": "right"
+        },
+        {
+            "time": "03:14",
+            "side": "right"
+        },
+        {
+            "time": "03:14",
+            "side": "right"
+        },
+        {
+            "time": "03:14",
+            "side": "right"
+        },
+        {
+            "time": "03:14",
+            "side": "right"
+        },
+        {
+            "time": "03:14",
+            "side": "right"
+        },
+        {
+            "time": "03:14",
+            "side": "right"
+        },
+        {
+            "time": "03:23",
+            "side": "left"
+        },
+        {
+            "time": "04:11",
+            "side": "right"
+        },
+        {
+            "time": "04:11",
+            "side": "right"
+        },
+        {
+            "time": "04:11",
+            "side": "right"
+        },
+        {
+            "time": "04:11",
+            "side": "right"
+        },
+        {
+            "time": "04:11",
+            "side": "right"
+        },
+        {
+            "time": "04:11",
+            "side": "right"
+        },
+        {
+            "time": "04:15",
+            "side": "left"
+        },
+        {
+            "time": "04:15",
+            "side": "left"
+        },
+        {
+            "time": "04:15",
+            "side": "left"
+        },
+        {
+            "time": "04:15",
+            "side": "left"
+        },
+        {
+            "time": "04:15",
+            "side": "left"
+        },
+        {
+            "time": "04:15",
+            "side": "left"
+        },
+        {
+            "time": "04:15",
+            "side": "left"
+        },
+        {
+            "time": "04:15",
+            "side": "left"
+        },
+        {
+            "time": "04:15",
+            "side": "left"
+        },
+        {
+            "time": "04:15",
+            "side": "left"
+        },
+        {
+            "time": "04:15",
+            "side": "left"
+        },
+        {
+            "time": "04:15",
+            "side": "left"
+        },
+        {
+            "time": "04:15",
+            "side": "left"
+        },
+        {
+            "time": "04:15",
+            "side": "left"
+        },
+        {
+            "time": "04:17",
+            "side": "right"
+        },
+        {
+            "time": "04:17",
+            "side": "right"
+        },
+        {
+            "time": "04:17",
+            "side": "right"
+        },
+        {
+            "time": "04:17",
+            "side": "right"
+        },
+        {
+            "time": "04:17",
+            "side": "right"
+        },
+        {
+            "time": "04:17",
+            "side": "right"
+        },
+        {
+            "time": "04:17",
+            "side": "right"
+        },
+        {
+            "time": "04:27",
+            "side": "right"
+        },
+        {
+            "time": "04:27",
+            "side": "right"
+        },
+        {
+            "time": "04:27",
+            "side": "right"
+        },
+        {
+            "time": "04:27",
+            "side": "right"
+        },
+        {
+            "time": "04:27",
+            "side": "right"
+        },
+        {
+            "time": "04:27",
+            "side": "right"
+        },
+        {
+            "time": "04:27",
+            "side": "right"
+        },
+        {
+            "time": "06:02",
+            "side": "right"
+        },
+        {
+            "time": "06:02",
+            "side": "right"
+        },
+        {
+            "time": "06:02",
+            "side": "right"
+        },
+        {
+            "time": "06:02",
+            "side": "right"
+        },
+        {
+            "time": "06:02",
+            "side": "right"
+        },
+        {
+            "time": "06:02",
+            "side": "right"
+        },
+        {
+            "time": "06:20",
+            "side": "left"
+        },
+        {
+            "time": "06:33",
+            "side": "right"
+        },
+        {
+            "time": "06:33",
+            "side": "right"
+        },
+        {
+            "time": "06:33",
+            "side": "right"
+        },
+        {
+            "time": "06:33",
+            "side": "right"
+        },
+        {
+            "time": "06:33",
+            "side": "right"
+        },
+        {
+            "time": "06:34",
+            "side": "right"
+        },
+        {
+            "time": "06:36",
+            "side": "left"
+        },
+        {
+            "time": "06:36",
+            "side": "left"
+        },
+        {
+            "time": "06:36",
+            "side": "left"
+        },
+        {
+            "time": "06:38",
+            "side": "right"
+        },
+        {
+            "time": "06:38",
+            "side": "right"
+        },
+        {
+            "time": "06:38",
+            "side": "right"
+        },
+        {
+            "time": "06:38",
+            "side": "right"
+        },
+        {
+            "time": "06:38",
+            "side": "right"
+        },
+        {
+            "time": "06:38",
+            "side": "right"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:47",
+            "side": "top"
+        },
+        {
+            "time": "08:50",
+            "side": "right"
+        },
+        {
+            "time": "08:50",
+            "side": "right"
+        },
+        {
+            "time": "08:50",
+            "side": "right"
+        },
+        {
+            "time": "08:50",
+            "side": "right"
+        },
+        {
+            "time": "08:50",
+            "side": "right"
+        },
+        {
+            "time": "08:50",
+            "side": "right"
+        }
+    ]
+}
